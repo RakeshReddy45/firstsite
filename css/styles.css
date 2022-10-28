@@ -1,6 +1,6 @@
 
 body{
-  background-color: #DEFCF9;
+  background-color: #EEF1FF;
 }
 hr{
 
@@ -11,8 +11,18 @@ hr{
   width: 100%;
 }
 h1{
-  color: #CCA8E9
+  color: red
 }
 h3{
-  color: #CCA8E9
+  color: red
+}
+
+.one{
+  background-color: #D2DAFF
+}
+.two{
+  background-color: #AAC4FF
+}
+.three{
+  background-color: #B1B2FF
 }
