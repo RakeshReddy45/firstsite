@@ -1,6 +1,9 @@
 
 body{
   background-color: #EEF1FF;
+  text-align: justify;
+
+
 }
 hr{
 
@@ -17,12 +20,35 @@ h3{
   color: red
 }
 
+
+  .top{
+    background-color: #def5e5;
+    position: relative;
+    padding-top: 100px;
+    text-align: center;
+  }
+
+
+
+  .tclo{
+    position: absolute;
+    right: 300px;
+    top : 300px;
+  }
+  .bclo{
+    position: absolute;
+    right: 300px;
+    top : 300px;
+
+  }
+
+
 .one{
-  background-color: #D2DAFF
+  background-color: #bcead5
 }
 .two{
-  background-color: #AAC4FF
+  background-color: #9ed5c5
 }
 .three{
-  background-color: #B1B2FF
+  background-color: #8ec3b0
 }
